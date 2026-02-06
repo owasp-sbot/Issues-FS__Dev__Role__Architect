@@ -1,0 +1,18 @@
+[tool.poetry]
+name        = "issues_fs_dev_role_architect"
+version     = "v0.1.0"
+description = "Issues-FS__Dev__Role__Architect"
+authors     = ["Dinis Cruz <dinis.cruz@owasp.org>"]
+license     = "Apache 2.0"
+readme      = "README.md"
+homepage    = "https://github.com/owasp-sbot/Issues-FS__Dev__Role__Architect"
+repository  = "https://github.com/owasp-sbot/Issues-FS__Dev__Role__Architect"
+
+[tool.poetry.dependencies]
+python            = "^3.12"
+osbot-utils       = "*"
+issues-fs-cli     = "*"
+
+[build-system]
+requires = ["poetry-core>=1.9.1"]
+build-backend = "poetry.core.masonry.api"
