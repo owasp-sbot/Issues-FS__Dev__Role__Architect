@@ -1,0 +1,15 @@
+{
+  "node_id": "f0781199",
+  "node_type": "task",
+  "node_index": 1,
+  "label": "Task-1",
+  "title": "Produce ADR for Issues-FS News Site (GitHub Pages)",
+  "description": "Review the Journalist's feature request and implementation handoff for a GitHub Pages news site. Produce an Architecture Decision Record covering: static site generator choice (Jekyll vs Hugo), URL structure, content mapping, feed architecture, theme selection, deployment architecture, and future extensibility. Source docs in Journalist repo: publications/feature-requests/2026-02-09__github-pages-news-site.md and 2026-02-10__news-site-implementation-handoff.md",
+  "status": "backlog",
+  "created_at": 1770732311955,
+  "updated_at": 1770732311955,
+  "created_by": "c66cde3c",
+  "tags": [],
+  "links": [],
+  "properties": {}
+}
