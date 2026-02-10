@@ -1,0 +1,15 @@
+{
+  "node_id": "a796bd35",
+  "node_type": "task",
+  "node_index": 4,
+  "label": "Task-4",
+  "title": "Revert ADR-001 to Jekyll: stakeholder changed preference",
+  "description": "Stakeholder has reversed the Hugo decision. Use Jekyll instead for the Journalist GitHub Pages news site. Reason: native GitHub Pages support means zero custom CI needed for builds _ GitHub handles it automatically. This simplifies the architecture significantly. ADR-001 originally recommended Jekyll, then Task-2 was created to revise for Hugo based on the interview. This task supersedes Task-2. Update ADR-001 status to Accepted with Jekyll as the final choice. Close Task-2 as superseded.",
+  "status": "backlog",
+  "created_at": 1770764691549,
+  "updated_at": 1770764691549,
+  "created_by": "93c3886e",
+  "tags": [],
+  "links": [],
+  "properties": {}
+}

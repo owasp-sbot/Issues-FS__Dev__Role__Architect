@@ -1,6 +1,8 @@
 # ADR-001: GitHub Pages News Site Architecture
 
-## Status: Proposed
+## Status: Accepted
+
+**Update (2026-02-10):** Stakeholder initially expressed preference for Hugo in voice interview, then reversed to Jekyll citing native GitHub Pages support as the deciding factor. ADR-001's original Jekyll recommendation stands. No revision needed.
 
 ## Date: 2026-02-10
 
