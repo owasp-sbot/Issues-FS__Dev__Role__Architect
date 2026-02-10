@@ -1,0 +1,15 @@
+{
+  "node_id": "79085ef0",
+  "node_type": "task",
+  "node_index": 5,
+  "label": "Task-5",
+  "title": "Design domain architecture for issuesFS.ai",
+  "description": "The stakeholder has acquired the issuesFS.ai domain. Design the subdomain/path architecture mapping all the websites the ecosystem needs. Consider: (1) Main site at issuesFS.ai _ project landing page, what is Issues-FS, getting started, links to all repos. (2) Journalist news site _ could be news.issuesFS.ai or issuesFS.ai/news. (3) Documentation site (from Issues-FS__Docs) _ docs.issuesFS.ai. (4) API/Service docs _ api.issuesFS.ai. (5) Future role sites _ e.g. maps.issuesFS.ai for Cartographer visualizations, library.issuesFS.ai for Librarian knowledge base. (6) PyPI package pages. Produce an ADR covering: subdomain vs path-based routing, which repos serve which sites, GitHub Pages CNAME setup for each, DNS records needed, SSL/TLS (GitHub Pages handles this), phased rollout plan. Reference ADR-001 (Jekyll news site, now Accepted) as the first site to deploy. The Journalist site should be first, main landing page second.",
+  "status": "backlog",
+  "created_at": 1770764844721,
+  "updated_at": 1770764844721,
+  "created_by": "6a5fadb4",
+  "tags": [],
+  "links": [],
+  "properties": {}
+}
